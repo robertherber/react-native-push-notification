@@ -1,5 +1,5 @@
 {
-  "name": "react-native-push-notification",
+  "name": "@kingstinct/react-native-push-notification",
   "version": "3.0.2",
   "description": "React Native Local and Remote Notifications",
   "main": "index",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:zo0r/react-native-push-notification.git"
+    "url": "git+ssh://git@github.com:robertherber/react-native-push-notification.git"
   },
   "peerDependencies": {
     "react-native": ">=0.33"
